@@ -6,6 +6,11 @@
     border-radius: 5px;
 }
 
+.img{
+    width:150px;
+    height:150px;
+}
+
 body{
   text-align: center;
     background-color:lightblue;
